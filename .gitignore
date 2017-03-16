@@ -1,0 +1,6 @@
+
+*.csv
+
+.ipynb_checkpoints/MOMA-checkpoint.ipynb
+
+*.jpeg
